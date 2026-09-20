@@ -7,3 +7,5 @@ def exponentiation(number, base):
 
 result = exponentiation(2, 1)
 print(result)
+
+// begineer level recursion
