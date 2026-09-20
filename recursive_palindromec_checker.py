@@ -16,3 +16,5 @@ def palindrome_checker(string):
 string = "racecar"
 result = palindrome_checker(string)
 print(result)
+
+//begineer level recursion
